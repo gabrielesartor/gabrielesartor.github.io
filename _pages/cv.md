@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Università degli Studi di Torino, 2015
+* M.S. in Computer Science, Università degli Studi di Torino, 2018
+* Ph.D in Computer Science, Università degli Studi di Torino, 2019 - ...
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dic 2018 - Oct 2019: Research Assistant
+  * Institute of Techonology and Cognitive Sciences
+  * Duties included: Theoric research and development of autonomous software
+  * Supervisor: ...
 
-* Fall 2015: Research Assistant
-  * Github University
+* Nov 2017 - Apr 2018: Master Thesis Internship
+  * ALTEC S.p.A.
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: ...
   
 Skills
 ======
