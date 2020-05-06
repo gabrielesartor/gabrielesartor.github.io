@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriele Sartor"
 title_separator          : "-"
 name                     : &name "Gabriele Sartor"
-description              : &description "personal description"
+description              : &description "PhD student at Università degli Studi di Torino"
 url                      : https://gabrielesartor.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabrielesartor.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gabriele Sartor"
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Science"
-  location         : "Torino"
+  bio              : "PhD student in Computer Science at Università degli Studi di Torino"
+  location         : "Torino, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=FEKTx-oAAAAJ&hl=it&oi=ao"
