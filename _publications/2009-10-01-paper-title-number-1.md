@@ -1,5 +1,5 @@
 ---
-title: "1. An Intrinsically Motivated Planning Architecture forCuriosity-driven Robots"
+title: "An Intrinsically Motivated Planning Architecture forCuriosity-driven Robots"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 date: November 22, 2019
