@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "An Intrinsically Motivated Planning Architecture forCuriosity-driven Robots"
+collection: Proceedings of the 6th Italian Workshop on Artificial Intelligence and Robotics
+co-located with the XVIII International Conference of the Italian Association for Artificial Intelligence (AIxIA 2019)
+permalink: http://ceur-ws.org/Vol-2594/short5.pdf
+date: November 22, 2019
+venue: 'CEUR-WS'
+paperurl: 'http://ceur-ws.org/Vol-2594/short5.pdf'
+citation: 'Angelo Oddi, Riccardo Rasconi, Vieri Giuliano Santucci, Gabriele Sartor, Emilio Cartoni, Gianluca Baldassarre, Gianluca Baldassarre. (2019). &quot;An Intrinsically Motivated Planning Architecture forCuriosity-driven Robots.&quot; <i>CEUR-WS</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
