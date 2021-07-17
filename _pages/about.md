@@ -18,11 +18,11 @@ Research interests
 1. Planning methods
 1. Integration of deep learning techiques with planning methods 
 
-If you're interested in writing a thesis on these topics you can contact me at gabriele.sartor@unito.it to have more details.
+If you're interested in writing a thesis on these topics you can contact me at <u>gabriele.sartor@unito.it</u> to have more details.
 
 Other activities
 ======
-I am also co-founder of the startup Stratobotic building stratospheric platforms to provide Earth observation and telecommunication services. If you're interested in participating to our activities writing your master thesis or to know if there are some available positions write us at info@stratobotic.com.
+I am also co-founder of the startup Stratobotic building stratospheric platforms to provide Earth observation and telecommunication services. Check out our website [stratobotic.com](http://www.stratobotic.com/). If you're interested in participating to our activities writing your master thesis or to know if there are some available positions write us at <u>info@stratobotic.com</u>.
 Our main research topics in Computer Science are related to:
 1. Mission control center applications (UI and planning)
 1. Image processing
