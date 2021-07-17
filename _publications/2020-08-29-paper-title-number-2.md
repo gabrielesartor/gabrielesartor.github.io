@@ -1,7 +1,7 @@
 ---
 title: "Integrating Open-Ended Learning in the Sense-Plan-Act Robot Control Paradigm"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-08-29-paper-title-number-2
 date: August 12, 2020
 venue: 'ECAI 2020'
 paperurl: 'https://ebooks.iospress.nl/doi/10.3233/FAIA200373'
