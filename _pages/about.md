@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doc at the Computer Science Department of Torino interested in everything related to Artificial Intelligence. I have already worked on projects integrating high level planning with learning components and I'd like to keep follwing this line of research. 
-If you're interested in writing your master thesis on these topics feel free to contact me by email.
-In addition, I participate to the CubeHAPS, project to build a stratosperic platform to provide EO and TLC services, in which I follow the software development activities.
-I worked also on Remote Sensing classification models involving satellite data/images of Sentinel, ERA5 and GRACE (NASA).
+I am a Post-Doc at the Computer Science Department of Torino working on Artificial Intelligence systems.
+I have been working on projects integrating high-level planning with learning components (e,g, [IMPACT]{https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots}) and I am working on new Neurosymbolic models to integrate deep learning with prior-knowledge.
 
 Research interests
 ======
-1. Reinforcement learning algorithms in simulated environments
+1. Neurosymbolic models (with focus on intelligent agents) <-- CURRENT FOCUS
+2. Reinforcement learning algorithms in simulated environments
 1. Planning methods
-1. Integration of deep learning techiques with planning methods
-1. Remote Sensing models
 
 If you're interested in writing a thesis on these topics you can contact me at <u>gabriele.sartor@unito.it</u> to have more details.
 
