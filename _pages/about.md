@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+(THIS PAGE IS UPDATING!)
+
+
 I am a Post-Doc at the Computer Science Department of Torino working on Artificial Intelligence systems.
 I have been working on projects integrating high-level planning with learning components (e,g, [IMPACT](https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots)) and I am working on new Neurosymbolic models to integrate deep learning with prior-knowledge.
 
