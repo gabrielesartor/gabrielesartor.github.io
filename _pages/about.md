@@ -15,8 +15,8 @@ I am currently a Postdoctoral Researcher in the Department of Computer Science a
 I have been working on projects integrating high-level planning with learning components (e,g, <a href="https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots">IMPACT</a>), and I am currently exploring neurosymbolic models that combine deep learning with prior knowledge.
 <br><br>
 <div style="text-align:center; width:100%">
-<img src="https://raw.githubusercontent.com/gabrielesartor/gabrielesartor.github.io/refs/heads/master/images/otre_border.gif" alt="robot_graspoing" style="height: 200px;">  
-<img src="https://raw.githubusercontent.com/gabrielesartor/gabrielesartor.github.io/refs/heads/master/images/exp_1_post_learning.gif" alt="rover_ext" style="height: 200px;">
+<img src="https://raw.githubusercontent.com/gabrielesartor/gabrielesartor.github.io/refs/heads/master/images/otre_border.gif" alt="robot_graspoing" style="height: 150px;">  
+<img src="https://raw.githubusercontent.com/gabrielesartor/gabrielesartor.github.io/refs/heads/master/images/exp_1_post_learning.gif" alt="rover_ext" style="height: 150px;">
 </div>
 <br><br>
 My primary research interest lies in developing autonomous architectures capable of continuously acquiring new knowledge and leveraging it to efficiently learn further in a virtuous cycle. 
