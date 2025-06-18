@@ -12,14 +12,15 @@ redirect_from:
 
 <div align="justify">
 Welcome to my page!
-  
-I am a Post-Doc at the Computer Science Department of Torino working on Artificial Intelligence systems.
-I have been working on projects integrating high-level planning with learning components (e,g, [IMPACT](https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots)) and I am working on new Neurosymbolic models to integrate deep learning with prior-knowledge.
-
-In particular, I am interested in studying architectures for autonomy able to learn continuously new knowledge, exploiting it to acquire efficiently new ones in a virtuous loop.
-In this area it is central the choice of knowledge representation adopted at all the levels (from low-level skills to higher level concepts) and finding a unified framework is stil an open challenge.
-
-I have been part of the Planning and Scheduling Team (PST) at the Institute for Cognitive Sciences and Technologies (ISTC-CNR) of Rome, and the RoboCupSoccer SPL team Luxembourg United.
+<br>
+I am currently a Postdoctoral Researcher in the Department of Computer Science at the University of Torino, focusing on Artificial Intelligence systems.
+I have been working on projects integrating high-level planning with learning components (e,g, [IMPACT](https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots) ), and I am currently exploring neurosymbolic models that combine deep learning with prior knowledge.
+<br>
+My primary research interest lies in developing autonomous architectures capable of continuously acquiring new knowledge and leveraging it to efficiently learn further in a virtuous cycle. 
+A central aspect of this challenge is the design of appropriate knowledge representations at all levels—from low-level skills to high-level concepts.
+Identifying a unified framework for this remains an open challenge in the field.
+<br>
+I have also been a member of the Planning and Scheduling Team (PST) at the Institute for Cognitive Sciences and Technologies (ISTC-CNR) in Rome, and part of the RoboCup Soccer SPL team Luxembourg United.
 </div>
 
 Research interests
