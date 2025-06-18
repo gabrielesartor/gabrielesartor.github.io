@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-(THIS PAGE IS UPDATING!)
-
 <div align="justify">
 Welcome to my page!
 <br><br>
