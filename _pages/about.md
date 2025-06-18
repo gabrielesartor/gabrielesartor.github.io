@@ -17,7 +17,7 @@ I am currently a Postdoctoral Researcher in the Department of Computer Science a
 I have been working on projects integrating high-level planning with learning components (e,g, [IMPACT](https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots) ), and I am currently exploring neurosymbolic models that combine deep learning with prior knowledge.
 <br>
 My primary research interest lies in developing autonomous architectures capable of continuously acquiring new knowledge and leveraging it to efficiently learn further in a virtuous cycle. 
-A central aspect of this challenge is the design of appropriate knowledge representations at all levels—from low-level skills to high-level concepts.
+A central aspect of this challenge is the design of appropriate knowledge representations at all levels, from low-level skills to high-level concepts.
 Identifying a unified framework for this remains an open challenge in the field.
 <br>
 I have also been a member of the Planning and Scheduling Team (PST) at the Institute for Cognitive Sciences and Technologies (ISTC-CNR) in Rome, and part of the RoboCup Soccer SPL team Luxembourg United.
