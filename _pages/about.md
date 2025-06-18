@@ -12,7 +12,7 @@ redirect_from:
 
 <div align="justify">
 Welcome to my page!
-<br>
+<br><br>
 I am currently a Postdoctoral Researcher in the Department of Computer Science at the University of Torino, focusing on Artificial Intelligence systems.
 I have been working on projects integrating high-level planning with learning components (e,g, <a href="https://www.istc.cnr.it/en/content/impact-intrinsically-motivated-planning-architecture-curiosity-driven-robots">IMPACT</a>), and I am currently exploring neurosymbolic models that combine deep learning with prior knowledge.
 <br><br>
